@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheila</h1>
-<h3 align="center">A brazilian studying to be a full-stack developer and en>pt-br translator</h3>
+<h3 align="center">A brazilian en>pt-br translator studying to become a full-stack developer</h3>
 
 - 🌱 I’m currently learning **Python and Java**
 
