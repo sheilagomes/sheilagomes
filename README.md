@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheila</h1>
 <h3 align="center">A brazilian en>pt-br translator studying to become a developer.</h3>
 
-- 🌱 I’m currently learning **Python and Java** and would like to work in QA and testing.
+- 🌱 I’m currently learning **Python and Java**, and brushing up on my JS by working on Scrimba's JavascriptMas challenges.
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
