@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheila</h1>
-<h3 align="center">A brazilian en>pt-br translator studying to become a developer.</h3>
+<h3 align="center">a translator who codes</h3>
 
 - 🌱 I’m currently learning **Python**, doing small projects with **Django**, and building sites and web components with **HTML, CSS, and JS**.
 
